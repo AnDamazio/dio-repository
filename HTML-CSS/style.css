@@ -8,10 +8,15 @@ body {
     color: #505050;
 }
 
+#title {
+    text-align: center;
+}
+
 .image {
     border-radius: 50%;
     width: 200px;
-    align-self: center;
+    display: block;
+    margin: auto;
 }
 
 .post_title {
